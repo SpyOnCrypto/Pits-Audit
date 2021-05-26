@@ -26,7 +26,6 @@
 
 <p><a href="https://twitter.com/pieintheskybsc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://t.me/PIEinTHEskyCHAT"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> 
 <a href="https://www.pieinthesky.online/"><img src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=for-the-badge&logoColor=white" height=25></a>
-<a href="https://link.medium.com/VxplRGLnogb"><img src="https://img.shields.io/badge/medium-%23323330.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <a href="https://youtube.com/channel/UCx7jttJvDLBHw6Qb9hrRzfA"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a></p>
 
 <h2>Spy on Crypto Disclaimer</h2>
